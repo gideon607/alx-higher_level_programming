@@ -1,6 +1,6 @@
 '-matrix_divided' module
 
-Unit test for  'matrix_divided' function
+Unit test for the 'matrix_divided' function
 ------------------------
 
 Import the function:

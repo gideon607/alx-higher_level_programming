@@ -2,7 +2,7 @@
 '0-add_integer' module
 =============================
 
-Uit test for the function  'add_integer' that returns the sum of two integer
+Usage test : this tests for function  'add_integer' that returns the sum of two integer or more integers.
 ---------------------
 
 Import the function:
